@@ -1,0 +1,1 @@
+std::iter::Filter<std::iter::Filter<std::iter::FlatMap<std::vec::IntoIter<Scaentry>, Vec<std::string::String>, {closure@src\subdomain.rs:15:19: 15:23}>, {closure@src\subdomain.rs:20:19: 20:24}>, {closure@src\subdomain.rs:22:19: 22:24}>
